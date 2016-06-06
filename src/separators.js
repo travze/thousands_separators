@@ -5,7 +5,7 @@ function thousands_separators(num) {
     console.log('100');
   }
   else if (num = 1000) {
-    console.log('1,000');
+    console.log('1'+','+'000');
   }
   else if (num = 10000000) {
     console.log('10,000,000');
